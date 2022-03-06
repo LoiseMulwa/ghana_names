@@ -10,8 +10,43 @@ body{
 
 }
 #akan h4{
-    /* text-align: end; */
-    font-family: 'Sofia', cursive;
+    text-align: end;
+    font-family: 'Sofia';
     font-weight: bold;
     font-size: 30px;
+}
+.form-fill{
+    height: 300px;
+    box-shadow: 30%;
+    opacity: 0.8;
+    
+    
+}
+#validate{
+    padding-top: 30px;
+    background-color: goldenrod;
+    height: 300px;
+}
+#day{
+    width: 100vh;
+    margin-left: 50px;
+}
+#validate label{
+    margin-left: 50px;
+    font-weight: bolder;
+}
+.month{
+    margin-top: 20px;
+}
+.year{
+    margin-top: 20px;
+}
+#gender{
+    margin-top: 20px;
+    margin-left: 50px;
+    height: 30px;
+    width: 100px;
+}
+#gender value{
+    font-weight: 80px;
 }
