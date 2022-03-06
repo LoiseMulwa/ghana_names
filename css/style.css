@@ -24,7 +24,7 @@ body{
 .card-body{
     margin-left: 30px;
 }
-#btn{
+#btn {
     margin-top: 60px;
     margin-left: 80px;
     border: 2px black;
@@ -45,4 +45,8 @@ body{
 }
 .card-title{
     background: linear-gradient(to right,yellow,green );
+}
+#btn a{
+    color: black;
+    text-decoration: none;
 }
