@@ -8,6 +8,9 @@ function myLogin(){
         document.getElementById("validate").innerHTML="PLEASE FILL OUT ALL FIELDS!!"
         // alert("Please fill out all fields");
         return false;
-    }
 
+
+    }
 }
+
+let days=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]
