@@ -38,10 +38,15 @@ function calculate(){
     alert(d);
      }
 
-if (d==1 && gender=="male"){
+     document.getElementById("gender");
+
+if (gender=="male"){
     let i=0;
     for(i; i<=6; i++){
-        
+        if(i==Math.floor(d));
+        alert("Your akan name is"+namesMale[i])
+
+
     }
 }
 
