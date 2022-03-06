@@ -14,3 +14,8 @@ function myLogin(){
 }
 
 let days=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]
+var namesFemale=["Akosua","Abenaa","Akua","Yaa","Afua","Ama"];
+var namesMale=["Kwasi","Kwadwo","Kwabena","Kwaku","Yaw","Kwame"];
+
+
+
