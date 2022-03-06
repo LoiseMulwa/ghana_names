@@ -30,7 +30,19 @@ body{
     margin-top: 3%;
 
 }
-#day{
+/* #day{
+    width: 100vh;
+    margin-left: 50px;
+} */
+#born{
+    width: 100vh;
+    margin-left: 50px;
+}
+#month{
+    width: 100vh;
+    margin-left: 50px;
+}
+#year{
     width: 100vh;
     margin-left: 50px;
 }
