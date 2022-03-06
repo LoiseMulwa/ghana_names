@@ -29,27 +29,28 @@
                 <form id="validate">
                     <div>
                      <label>DATE BORN</label><br>
-                     <input type="number" name="day" id="day" placeholder="Date born">
+                     <input type="number" name="day" id="born" placeholder="Date born">
                  </div>
 
                     <div class="month">
                      <label>MONTH BORN</label><br>
-                    <input type="number" name="day" id="day" placeholder="Month born">
+                    <input type="number" name="day" id="month" placeholder="Month born">
                 </div>
                 <div class="year">
                 <label>YEAR BORN</label><br>
-                <input type="number" min="1900" max="2022" name="day" id="day" placeholder="Year born">
+                <input type="number" min="1900" max="2022" name="year" id="year" placeholder="Year born">
                 </div>
                      
                      <!-- <input type="text" name="name"> -->
                      <div>
                      <select name="gender" id="gender">
+                         <option value=""></option>
                          <option value="male">MALE</option>
                          <option value="female">FEMALE</option>
                      </select>
                     </div>
 
-                    <button id="btn">SUBMIT</button>
+                    <button id="btn" onclick="myLogin()">SUBMIT</button>
                      
                      
 
