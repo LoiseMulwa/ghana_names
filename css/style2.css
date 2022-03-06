@@ -21,11 +21,14 @@ body{
     opacity: 0.8;
     
     
+    
 }
 #validate{
     padding-top: 30px;
     background-color: goldenrod;
     height: 300px;
+    margin-top: 3%;
+
 }
 #day{
     width: 100vh;
@@ -49,4 +52,12 @@ body{
 }
 #gender value{
     font-weight: 80px;
+}
+#line{
+    margin-top: 3%;
+    background-color:black;
+    color: black;
+    width: 100%;
+    border: 30px;
+    height: 10px;
 }
