@@ -1,0 +1,17 @@
+body{
+    background-image: url(/images/sunset-ga564b39a6_1920.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#logo{
+    height: 15vh;
+    width: 20vh;
+
+}
+#akan h4{
+    /* text-align: end; */
+    font-family: 'Sofia', cursive;
+    font-weight: bold;
+    font-size: 30px;
+}
