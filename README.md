@@ -45,7 +45,7 @@
 
 
 ## LIVE LINK
-* Click this link to view my website. 
+* Click this link to view my website- https://loisemulwa.github.io/ghana_names/ 
 
 
 
