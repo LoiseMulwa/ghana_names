@@ -33,7 +33,7 @@ body{
 
 #gender{
     margin-top: 20px;
-    margin-left: 50px;
+    margin-left: 120px;
     height: 30px;
     width: 100px;
 }
@@ -68,6 +68,6 @@ body{
 }
 #output{
     font-weight: bold;
-    color: white;
+    color: black;
     font-size: xx-large;
 }
