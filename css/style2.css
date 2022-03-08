@@ -19,43 +19,18 @@ body{
     height: 300px;
     box-shadow: 30%;
     opacity: 0.8;
-    
-    
-    
 }
 #validate{
     padding-top: 30px;
     background-color: goldenrod;
     height: 380px;
     margin-top: 3%;
-
-}
-/* #day{
-    width: 100vh;
-    margin-left: 50px;
-} */
-#born{
-    width: 100vh;
-    margin-left: 50px;
-}
-#month{
-    width: 100vh;
-    margin-left: 50px;
-}
-#year{
-    width: 100vh;
-    margin-left: 50px;
 }
 #validate label{
     margin-left: 50px;
     font-weight: bolder;
 }
-.month{
-    margin-top: 20px;
-}
-.year{
-    margin-top: 20px;
-}
+
 #gender{
     margin-top: 20px;
     margin-left: 50px;
@@ -73,7 +48,7 @@ body{
     border: 30px;
     height: 10px;
 }
-#btn{
+#sub{
     margin-top: 2%;
     margin-left: 50px;
     border: 2px black;
@@ -83,4 +58,16 @@ body{
     width: 30vh;
     font-weight: bolder;
     background-color: red;
+}
+.name{
+    margin-left: 70px;
+}
+.birth{
+    margin-top: 30px;
+    margin-left: 70px;
+}
+#output{
+    font-weight: bold;
+    color: white;
+    font-size: xx-large;
 }
